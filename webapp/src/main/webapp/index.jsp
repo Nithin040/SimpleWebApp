@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Currently 50% offers... </h1>   
+         <h1> Currently 90% offers... </h1>   
 	 
 
     </section>    
